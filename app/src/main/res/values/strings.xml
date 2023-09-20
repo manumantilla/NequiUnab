@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NequiUnab</string>
+    <string name="text_newaccount">Nueva cuenta</string>
+    <string name="text_save">Guardar</string>
+    <string name="text_name">Nombre de la cuenta</string>
+    <string name="text_accounttype">Tipo de cuenta</string>
+    <string name="text_startmoney">Saldo inicial</string>
+</resources>
